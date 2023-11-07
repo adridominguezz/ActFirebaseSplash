@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layer-list android:opacity="opaque"
     xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:drawable="@color/material_dynamic_primary20"/>
+    <item android:drawable="#081258"/>
         <item
-            android:left="100dp"
-            android:right="100dp"
-            android:top="300dp"
-            android:bottom="300dp"
+            android:gravity="center"
+            android:width="150dp"
+            android:height="150dp"
             >
-            <bitmap android:src="@drawable/scout"
-                android/>
+            <bitmap android:src="@drawable/scout"                />
         </item>
 
 
