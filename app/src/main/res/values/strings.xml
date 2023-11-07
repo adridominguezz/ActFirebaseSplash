@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ActFirebaseSplash</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="correo_electronico">Correo electrónico</string>
+    <string name="pasword">Contraseña</string>
+    <string name="campo_entrada_correo">Campo de entrada de correo electrónico</string>
+    <string name="registrar">REGISTRAR</string>
 </resources>
