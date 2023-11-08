@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layer-list android:opacity="opaque"
     xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:drawable="#081258"/>
+    <item android:drawable="@color/lolo"/>
         <item
             android:gravity="center"
             android:width="150dp"
             android:height="150dp"
             >
-            <bitmap android:src="@drawable/scout"                />
+            <bitmap android:src="@drawable/scout"/>
         </item>
-
-
 </layer-list>
